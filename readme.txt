@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git tracks changes of files;
 git add test1
 git add test2
+creating a new branch is quick AND simple
